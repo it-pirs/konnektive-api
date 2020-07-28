@@ -1,8 +1,8 @@
 # Konnektive CRM API Integration
-[![Latest Stable Version](https://poser.pugx.org/it-pirs/konnektive-api/v/stable)](https://packagist.org/packages/fitboxmedia/konnektive-api)
-[![Latest Unstable Version](https://poser.pugx.org/it-pirs/konnektive-api/v/unstable)](https://packagist.org/packages/fitboxmedia/konnektive-api)
-[![Total Downloads](https://poser.pugx.org/it-pirs/konnektive-api/downloads)](https://packagist.org/packages/fitboxmedia/konnektive-api)
-[![License](https://poser.pugx.org/it-pirs/konnektive-api/license)](https://packagist.org/packages/fitboxmedia/konnektive-api)
+[![Latest Stable Version](https://poser.pugx.org/it-pirs/konnektive-api/v/stable)](https://packagist.org/packages/it-pirs/konnektive-api)
+[![Latest Unstable Version](https://poser.pugx.org/it-pirs/konnektive-api/v/unstable)](https://packagist.org/packages/it-pirs/konnektive-api)
+[![Total Downloads](https://poser.pugx.org/it-pirs/konnektive-api/downloads)](https://packagist.org/packages/it-pirs/konnektive-api)
+[![License](https://poser.pugx.org/it-pirs/konnektive-api/license)](https://packagist.org/packages/it-pirs/konnektive-api)
 
 ---
 ## What It Is
