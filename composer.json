@@ -1,11 +1,16 @@
 {
-  "name": "fitboxmedia/konnektive-api",
+  "name": "it-pirs/konnektive-api",
   "description": "A PHP implementation of the Konnektive CRM v2 API",
   "license": "MIT",
   "authors": [
     {
       "name": "Rzavyalov",
       "email": "zavyalovroman@gmail.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Aleksandr Palyan",
+      "email": "aleks.palyan@gmail.com",
       "role": "Developer"
     }
   ],

@@ -18,7 +18,7 @@ When processing transactions and customer data through offers, marketers can ben
 
 ## Installation
 
-Use `composer require fitboxmedia/konnektive-api` or add it manually to `composer.json` (See latest version in badges).
+Use `composer require it-pirs/konnektive-api` or add it manually to `composer.json` (See latest version in badges).
 
 ## Getting Started
 
